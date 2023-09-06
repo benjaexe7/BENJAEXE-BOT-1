@@ -19,7 +19,7 @@ PÁGINA DE BENJAEXE-BOT:
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget && wget -O - https://github.com/BENJAEXE-BOT/BENJAEXE-BOT | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget && wget -O - https://raw.githubusercontent.com/GataNina-Li/GataBotLite-MD/master/gatalite.sh | bash
 ```
 
 ###  INSTALACIÓN MANUAL DE BENJAEXE-BOT - 
