@@ -6,8 +6,8 @@
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
 </div>
 
-### Cuentas Oficiales:
-> Al acceder a la plataforma, obtendrás acceso a todos los enlaces oficiales de GataBot. Además, te mantendremos informado con boletines y mensajes exclusivos sobre las últimas novedades. La página se actualiza constantemente para ofrecerte la información más relevante. ¡No te pierdas ninguna actualización y únete a nuestra comunidad ahora mismo!
+PÁGINA DE BENJAEXE-BOT:
+> ¡ Bienvenido a mi página, aquí encontraras todos los recursos necesarios para usar a BenjaExe-Bot !
 
 <a href="https://www.atom.bio/gatabot/">
 <img src="https://img.shields.io/badge/GataBot_Accounts-000000%7D?style=for-the-badge&logo=biolink&logoColor=white">
